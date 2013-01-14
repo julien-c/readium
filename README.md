@@ -15,7 +15,7 @@ Google Chrome Version 15+
 
 ## Install
 
-If you are a developer interested in hacking on the project, clone the repository and then follow the instruction for loading an unpacked extension from the [chrome extensions page](http://code.google.com/chrome/extensions/getstarted.html#load-ext)
+If you are a developer interested in hacking on the project, clone the repository and then follow the instruction for loading an unpacked extension from the [chrome extensions page](http://developer.chrome.com/extensions/getstarted.html#unpacked)
 
 If you want to give the latest release a whirl, use teh one click install link below to add the extension to chrome.
 
